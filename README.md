@@ -39,3 +39,9 @@ A simple Spring Boot MVC application to practice CRUD operations. This project a
 
 ---
 
+## Screenshots  
+![image](https://github.com/user-attachments/assets/d99395b0-eb97-498a-9f9a-913b12036bfb)
+![image](https://github.com/user-attachments/assets/0bfe893a-f29c-4904-a9bc-ef949ca0580b)
+![image](https://github.com/user-attachments/assets/1317dce6-f0d9-4d11-a224-c4e62cf28776)
+
+
